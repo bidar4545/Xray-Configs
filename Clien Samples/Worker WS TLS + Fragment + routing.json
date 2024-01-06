@@ -65,12 +65,12 @@
                 "vnext": [
                     {
                         "address": "www.speedtest.net",
-                        "port": XXXX,
+                        "port": 443,
                         "users": [
                             {
                                 "encryption": "none",
                                 "flow": "",
-                                "id": "XXXX",
+                                "id": "bc866b0e-bda5-4e47-932d-6f80448d3837",
                                 "level": 8,
                                 "security": "auto"
                             }
@@ -89,16 +89,16 @@
                     ],
                     "fingerprint": "chrome",
                     "publicKey": "",
-                    "serverName": "XXXX",
+                    "serverName": "ed-5is.pages.dev",
                     "shortId": "",
                     "show": false,
                     "spiderX": ""
                 },
                 "wsSettings": {
                     "headers": {
-                        "Host": "XXXX"
+                        "Host": "ed-5is.pages.dev"
                     },
-                    "path": "/XXXX?ed=2048"
+                    "path": "ed-5is.pages.dev"
                 },
                 "sockopt": {
                     "dialerProxy": "fragment",
